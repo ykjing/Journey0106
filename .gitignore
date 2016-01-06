@@ -6,3 +6,6 @@
 .DS_Store
 /build
 /captures
+app/src/main/res/layout/journey_item.xml
+app/src/main/java/com/example/yu/journey0106/MainActivity.java
+app/src/main/java/com/example/yu/journey0106/MainActivity.java
